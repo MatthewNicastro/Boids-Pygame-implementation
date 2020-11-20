@@ -40,4 +40,4 @@ Run the simulation
 Here is a video demo of my running the simulation and messing around with some of the features: 
 
 <a href="https://www.youtube.com/watch?v=Y1uMH353CgU" target="_blank"><img src="http://img.youtube.com/vi/Y1uMH353CgU/0.jpg" 
-alt="VIDEO LINK" width="620" height="540" border="10" /></a>
+alt="VIDEO LINK" width="480" height="270" border="10" /></a>
