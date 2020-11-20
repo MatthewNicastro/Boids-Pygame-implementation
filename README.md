@@ -35,3 +35,7 @@ In certain cases try
 Run the simulation
 
 ```python main.py```
+**Video demo**
+here is a video demo of my running the simulation and messing around with some of the features: 
+<a href="https://www.youtube.com/watch?v=Y1uMH353CgU" target="_blank"><img src="http://img.youtube.com/vi/Pygame-Boids-implementation/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
