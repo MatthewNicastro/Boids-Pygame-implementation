@@ -11,15 +11,15 @@ Some added features I have included are:
 - The ability to always limit the boids speed, or only limit the boids speed if its greater than the maximum speed
 
 **Installation**
->Clone the repository
-> git clone https://github.com/MatthewNicastro/Boids-Pygame-implementation
->Go to the cloned repositoru
-> cd path/to/cloned repository
->(Optional) Create virtual environment
-> python -m venv "NAME OF VIRTUAL ENVIRONMENT"
->Install requirements
-> pip install -r requirements
->In certain cases try
-> pip3 install -r requirements
->Run the simulation
-> python main.py
+Clone the repository
+```git clone https://github.com/MatthewNicastro/Boids-Pygame-implementation```
+Go to the cloned repository
+```cd path/to/cloned repository```
+(Optional) Create virtual environment
+```python -m venv "NAME OF VIRTUAL ENVIRONMENT"```
+Install requirements
+```pip install -r requirements```
+In certain cases try
+```pip3 install -r requirements```
+Run the simulation
+```python main.py```
