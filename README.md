@@ -10,7 +10,7 @@ Some added features I have included are:
 - Jitter feature where the boids ossiclate with adjustable angle 
 - The ability to always limit the boids speed, or only limit the boids speed if its greater than the maximum speed
 
-#Installation
+##Installation
 >##Clone the repository
 > git clone https://github.com/MatthewNicastro/Boids-Pygame-implementation
 >##Go to the cloned repositoru
